@@ -1,0 +1,27 @@
+body {
+    background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3UHzsEMOX7_qvXAaZJUd_3ed-eSDb8iZgoA&s);
+}
+h1 {
+    background-color:black;
+    color:white;
+}
+table{
+    border:1px solid black;
+    border-collapse:collapse;
+    width:100%;
+}
+th,td{
+    border:1px solid black;
+    padding:10px;
+    text-align:center;
+}
+th {
+    background-color:tan;
+}
+h4, h5 {
+    color:darkred;
+}
+h3 {
+    background-color:grey;
+    color:white;
+}
